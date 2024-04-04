@@ -1,0 +1,7 @@
+.env
+.venv
+__pycache__
+*.txt
+secret.py
+
+# you can see that its ignored in side bar, the text will be a more faded color
